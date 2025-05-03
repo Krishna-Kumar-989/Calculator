@@ -1,48 +1,54 @@
-🧮 Calculator
+<h1 align="center">🧮 Calculator App</h1>
 
-A simple calculator application built using C# and Windows Forms in Visual Studio. This desktop app allows users to perform basic arithmetic operations with a clean, user-friendly interface.
+<p align="center">
+  A clean and functional calculator built with <b>C#</b> and <b>Windows Forms</b> in Visual Studio. <br>
+  Perform basic arithmetic operations through a simple and elegant desktop interface.
+</p>
 
-✨ Features
+---
 
-Basic arithmetic operations:
+## ✨ Features
 
-Addition (+)
+✅ **Basic Operations** — Addition, Subtraction, Multiplication, Division  
+🔙 **Backspace Support** — Easily correct input mistakes  
+⚡ **Instant Response** — Lightweight and fast GUI  
+🎨 **Minimalist Design** — Easy to use and intuitive layout  
+🛠️ **No Installation Needed** — Just run the `.exe` file
 
-Subtraction (−)
+---
 
-Multiplication (×)
+## 🛠️ Tech Stack
 
-Division (÷)
+| Tech        | Details                          |
+|-------------|----------------------------------|
+| 💻 Language | C#                               |
+| 🧱 Framework | .NET Framework (Windows Forms)   |
+| 🧰 IDE       | Visual Studio                    |
 
-Backspace functionality
+---
 
-Minimal and intuitive design
+## 🚀 How to Run
 
-Lightweight and fast
+### 🔘 **Run Executable**
 
-🛠️ Built With
+> 📁 Navigate to `bin\\Debug` or `bin\\Release`  
+> 🖱️ **Double-click `Calculator.exe`**  
+> ✅ That’s it — no installation required!
 
-Programming Language: C#
+### 🧑‍💻 **Run from Source Code**
 
-GUI Framework: Windows Forms (.NET Framework)
+1. Clone or download this repository.
+2. Open `Calculator.sln` in Visual Studio.
+3. Build the solution (`Ctrl + Shift + B`).
+4. Run the app (`F5` or click ▶️ Start).
 
-IDE: Visual Studio
+---
 
-🚀 How to Run
+## 📸 Screenshots
 
-🖱️ Run Directly
+> _Add screenshots here to showcase the UI (optional)_
 
-Navigate to the bin\Debug or bin\Release folder.
+---
 
-Double-click Calculator.exe to launch the application.✅ No installation or setup needed.
-
-🧑‍💻 Run from Source
-
-Download or clone this repository.
-
-Open Calculator.sln in Visual Studio.
-
-Build the project (Ctrl + Shift + B).
-
-Run the app (F5 or click the green Start button).
-
+<h4 align="center">Made with ❤️ in Visual Studio</h4>
+"""
