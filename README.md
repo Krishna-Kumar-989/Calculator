@@ -1,4 +1,4 @@
-<h1 align="center">🧮 Calculator App</h1>
+<h1 align="center">🧮 Calculator</h1>
 
 <p align="center">
   A clean and functional calculator built with <b>C#</b> and <b>Windows Forms</b> in Visual Studio. <br>
@@ -46,9 +46,9 @@
 
 ## 📸 Screenshots
 
-> _Add screenshots here to showcase the UI (optional)_
 
----
+![Screenshot 2025-05-03 123131](https://github.com/user-attachments/assets/7809b591-f798-47c7-8737-2f3b53d038f1)
 
-<h4 align="center">Made with ❤️ in Visual Studio</h4>
+
+
 """
